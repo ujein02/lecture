@@ -17,6 +17,7 @@
 	<resources mapping="/notice/**" location="/WEB-INF/views/notice/" />
 	<resources mapping="/user/**" location="/WEB-INF/views/user/" />
 	<resources mapping="/common/**" location="/WEB-INF/views/common/" />
+	<resources mapping="/sample/**" location="/WEB-INF/views/sample/" />
 	
 
 	<!-- Resolves views selected for rendering by @Controllers to .jsp resources in the /WEB-INF/views directory -->
